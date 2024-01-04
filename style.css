@@ -1,0 +1,23 @@
+
+.logo{
+    margin-right: 15px;
+}
+
+.clogo{
+    margin-right: 10px;
+}
+
+.reserve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(138, 163, 209);
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(193, 43, 98);
+}
+
+.contact{
+    margin-top: 10%;
+}
